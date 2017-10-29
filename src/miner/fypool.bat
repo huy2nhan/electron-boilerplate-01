@@ -1,0 +1,1 @@
+miner --server asia1-zcash.flypool.org --port 3333 --user t1P1NFGgt2wPs9dnrdid1QcFmdoxaEwo8vp.nhan --pass x
